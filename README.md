@@ -8,9 +8,11 @@ There are two parts to the project: Data Scraping and Tableau dashboards. If you
 
 The store we scraped today is Guardian - a retailer of health and beauty products.
 
-## Tableau Dashboard:
+## Tableau Dashboard & Report:
 
-  https://public.tableau.com/views/GuardianDashboardonLazadaE-commerce/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+  **Online Dashboard:** https://public.tableau.com/views/GuardianDashboardonLazadaE-commerce/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+  **Report:** The Guardian E-commerce sales report is attached as a pdf file below: "GUARDIAN E-commerce sales report.pdf"
 
 ## Technical requirements
 
